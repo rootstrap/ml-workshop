@@ -70,7 +70,7 @@ celerybeat-schedule
 venv/
 ENV/
 env/
-env-ml/
+env-ml*
 
 # Rope project settings
 .ropeproject
