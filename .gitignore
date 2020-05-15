@@ -344,6 +344,5 @@ core/media/
 
 .env
 .envs/*
-*.ipynb
 .idea/misc.xml
 .idea/core.iml
