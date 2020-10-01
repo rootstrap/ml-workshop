@@ -346,3 +346,5 @@ core/media/
 .envs/*
 .idea/misc.xml
 .idea/core.iml
+
+.ipynb_checkpoints/
