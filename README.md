@@ -5,7 +5,7 @@ It's explained in [this blog](https://www.rootstrap.com/blog/a-prediction-experi
 
 ## Needed libraries
 
-To use work with this project, you need to install:
+To work with this project, you need to install:
 
 1. [jupyter notebook](https://jupyter.org/): `pip install jupyter`
 2. [pandas dataframes](https://pandas.pydata.org/): `pip install pandas`
@@ -19,3 +19,11 @@ Under `notebooks` folder you can see 3 jupyter notebooks:
 - `0_intro`: A notebook to understand better pandas dataframes.
 - `1_data_cleaning`: A notebook to see the preprocessing of the data. It shows how to load the data and solve common problems in supervised learning such as null values. After that the preprocessed data is stored.
 - `2_split_normalize_fit_test`: A notebook that loads the preprocessed data, splits the dataset into train and test, and then train different models and calculates errors to see the performance.
+
+To use these notebooks, go to this folder from the terminal and execute this command:
+
+```
+jupyter-notebook
+```
+
+After that, your browser will open a new tab that has the folder and the notebooks.
