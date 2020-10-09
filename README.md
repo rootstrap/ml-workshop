@@ -11,6 +11,7 @@ To work with this project, you need to install:
 2. [pandas dataframes](https://pandas.pydata.org/): `pip install pandas`
 3. [scikit learn](https://scikit-learn.org/stable/): `pip install sklearn`
 4. [numpy](https://numpy.org/): `pip install numpy`
+5. [xgboost](https://pypi.org/project/xgboost/): `pip install xgboost`
 
 ## Notebooks
 
