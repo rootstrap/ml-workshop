@@ -26,7 +26,8 @@ After that make sure to install:
 3. [scikit learn](https://scikit-learn.org/stable/): `pip install sklearn`
 4. [numpy](https://numpy.org/): `pip install numpy`
 5. [lightgbm](https://pypi.org/project/lightgbm/): `pip install lightgbm`
-6. [matplotlib](https://matplotlib.or): `pip install matplotlib`
+6. [matplotlib](https://matplotlib.org): `pip install matplotlib`
+7. [xgboost](https://pypi.org/project/xgboost/): `pip install xgboost`
 
 If you don't want to install package by package, you can install these packages from the requirements.txt file:
 
